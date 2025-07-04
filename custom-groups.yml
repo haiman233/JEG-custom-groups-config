@@ -151,6 +151,9 @@ groups:
       - slimedustry:ingots
       - slimedustry:dusts
       - slimedustry:armor
+      - slimefunnethertech2:nether_tech_items
+      - slimefunnethertech2:nether_tech_machine
+      - slimefunnethertech2:enhanced_slimefun
 
     formats:
       - "BbBBBBRSB"
@@ -278,6 +281,7 @@ groups:
       - myfirstaddon:schns_first_addon
       - buildingstaff:building_staff
       - brewerymenu:brewery_category
+      - slimefunnethertech2:crazy_stuff
     formats:
       - "BbBBBBRSB"
       - "iiiiiiiii"
