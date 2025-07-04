@@ -282,6 +282,7 @@ groups:
       - buildingstaff:building_staff
       - brewerymenu:brewery_category
       - slimefunnethertech2:crazy_stuff
+      - soundmuffler:sound_muffler
     formats:
       - "BbBBBBRSB"
       - "iiiiiiiii"
